@@ -1,6 +1,6 @@
 ### Hello there, I'm Frederico Vicente! Welcome to my profile 👋
 
-- 🔭 I’m currently working on the Amazon Taskbot Challenge
+- 🔭 Amazon Alexa Taskbot Challenge (2nd Place)
 - 🌱 I’m currently learning about multi-modal transformers' models
 - ⚡ Fun fact: Darkness is shy and polite (I write poetry)
 
