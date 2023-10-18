@@ -1,8 +1,8 @@
 ### Hello there, I'm Frederico Vicente! Welcome to my profile 👋
 
-- 🔭 Amazon Alexa Taskbot Challenge (2nd Place);
-- 🌱 I’m currently learning more about prompt engineering techniques;
-- ⚡ Fun fact: Darkness is shy and polite (I write poetry);
+- 🌱 PhD Student in Machine Learning (Federated Learning)
+- 🔭 Amazon Alexa Taskbot Challenge (2022 - 2nd Place)
+- ⚡ Fun fact: Darkness is shy and polite (I write poetry)
 
 [![Poetry](https://img.shields.io/badge/Poetry-Medium-1f425f.svg?color=green)](https://words-seeking-glory.medium.com)
 
